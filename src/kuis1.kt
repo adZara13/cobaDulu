@@ -10,6 +10,7 @@ fun mediasosial () {
     var aplikasi = mutableMapOf(
         "IG" to "Instagram",
         "TT" to "TikTok",
+
         "WA" to "WhatsApp",
         "X" to "Twitter"
     )
