@@ -1,6 +1,7 @@
 fun main () {
 nama()
 mediasosial()
+    sekolah()
 }
 fun nama () {
     var huruf: Char = 'A'
@@ -16,3 +17,8 @@ fun mediasosial () {
     )
     print(aplikasi["X"])
 }
+
+fun sekolah () {
+        val kelas = "X.C"
+        println("Aku saat ini belajar di kelas $kelas")
+    }

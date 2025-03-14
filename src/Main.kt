@@ -27,3 +27,5 @@ fun spotify () {
     )
     println(laguHappy)
 }
+
+var 1 = "1"
